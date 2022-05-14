@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tomato",
+    "id": "#001",
+    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "xdescription": "Red and juicy",
+    "ydescription": "Red and juicy",
+    "typeoffood": ["Fruit", "Vegetable"],
+    "protein": 0.9,
+    "calories": 18,
+    "sodium": 5,
+    "fat": 0.2,
+  },
+{
+    "name": "Cinnamon",
+    "id": "#002",
+    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "xdescription": "Health food 101",
+    "ydescription": "Health food 101",
+    "typeoffood": ["Spice"],
+    "protein": 4.2,
+    "calories": 303,
+    "sodium": 443,
+    "fat": 3.9,
+  }
+  ]
